@@ -26,9 +26,6 @@
 ## 📈 GitHub Stats
 ![Vidura's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidura2&show_icons=true&theme=radical)
 
-## 📊 Contributions in the Last Year
-![Vidura's Contribution Graph](https://github-readme-stats.vercel.app/api/wakatime?username=vidura2&hide_title=true&hide_border=true&langs_count=5&bg_color=FFFFFF00&text_color=000000&icon_color=007ACC)
-
 ### 🤝 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/vidura-ranathunga/)
 - [Instagram](https://www.instagram.com/Shane_Vidura_/) <!-- Replace with your Instagram username -->
