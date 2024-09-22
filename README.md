@@ -1,4 +1,7 @@
 # Hi there, I'm Vidura Ranathunga 👋
+I'm a cybersecurity student at SLIIT Campus in Sri Lanka, with a passion for coding and hacking. Over the past two years, I've developed skills in Python, Java, HTML, and CSS, and I'm currently diving into C and C#. I enjoy exploring various aspects of cybersecurity, including exploit writing and RF and satellite hacking.
+
+I'm excited to share my projects and insights on this platform. Let's connect and collaborate on innovative solutions!
 
 ## 🚀 About Me
 - 🎓 Currently studying at **SLIIT** Campus in Sri Lanka
