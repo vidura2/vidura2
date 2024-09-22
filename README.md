@@ -21,6 +21,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" style="animation: spin 2s linear infinite;"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="animation: spin 2s linear infinite;"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" style="animation: spin 2s linear infinite;"/> 
+  <img src="https://www.google.com/imgres?q=metasploit&imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FD4D12AQEa_J0dinoDtA%2Farticle-cover_image-shrink_720_1280%2F0%2F1716970059731%3Fe%3D2147483647%26v%3Dbeta%26t%3D58DVZX-945AiOz6tnfqzVxORYNUfYlx3R7UbjLDLz3s&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fmetasploit-framework-explained-understanding-its-joel-mutiso-yvihf&docid=YvvsmiHSmiY0lM&tbnid=kizqzJ76oMxH1M&vet=12ahUKEwi_teeW7NaIAxVg4jgGHTZoEPoQM3oECBcQAA..i&w=1280&h=688&hcb=2&ved=2ahUKEwi_teeW7NaIAxVg4jgGHTZoEPoQM3oECBcQAA">
 </p>
 
 ## 📈 GitHub Stats
