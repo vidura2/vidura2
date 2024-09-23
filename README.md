@@ -31,6 +31,7 @@ I'm excited to share my projects and insights on this platform. Let's connect an
 ![Vidura's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidura2&show_icons=true&theme=radical)
 
 ### 🤝 Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/vidura-ranathunga/)
-- [Instagram](https://www.instagram.com/Shane_Vidura_/) <!-- Replace with your Instagram username -->
+<a href="https://linkedin.com/in/vidura-ranathunga-a75725222/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/Shane_Vidura_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
 
