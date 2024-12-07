@@ -5,7 +5,7 @@ I'm excited to share my projects and insights on this platform. Let's connect an
 
 ## 🚀 About Me
 - 🎓 Currently studying at **SLIIT** Campus in Sri Lanka
-- 👨‍💻 I started coding 2 years ago and have been passionate about hacking ever since
+- 👨‍💻 I started coding 4 years ago and have been passionate about hacking ever since
 - 📜 I know **Python**, **Java**, **HTML**, **CSS** and am currently learning **C** and **C#**
 - 💡 I love to write **exploits** and am exploring the world of **hacking**, focusing on:
   - **Satellite Hacking**
